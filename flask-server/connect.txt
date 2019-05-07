@@ -1,0 +1,1 @@
+ssh -i /home/user/.ssh/azure-private-key.ppk lehel@13.80.124.98
